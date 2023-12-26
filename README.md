@@ -1,1 +1,10 @@
-# MyPortfolio
+![Screenshot (134)](https://github.com/RizaDBatulanon/MyPortfolio/assets/143053579/0e40e1b6-1934-4828-b6e2-e74a25de189b)
+![Screenshot (135)](https://github.com/RizaDBatulanon/MyPortfolio/assets/143053579/e9c7a941-8a7b-40f6-a7dc-8d2fad5e892c)
+![Screenshot (139)](https://github.com/RizaDBatulanon/MyPortfolio/assets/143053579/d4aa46be-434f-4f80-b7ae-f942c0d53cc5)
+![Screenshot (140)](https://github.com/RizaDBatulanon/MyPortfolio/assets/143053579/7e1fff84-90a8-4f2b-9865-3ad7551a0b5b)
+![Screenshot (141)](https://github.com/RizaDBatulanon/MyPortfolio/assets/143053579/a2484eff-c0ac-40ae-9b7c-e49a350c96c1)
+![Screenshot (142)](https://github.com/RizaDBatulanon/MyPortfolio/assets/143053579/0d0bcf68-8fb5-4c9c-accf-a97b4313e5ed)
+![Screenshot (144)](https://github.com/RizaDBatulanon/MyPortfolio/assets/143053579/a06fd60c-4608-45d9-9cd3-47adea9e1207)
+![Screenshot (136)](https://github.com/RizaDBatulanon/MyPortfolio/assets/143053579/29b85bdb-4058-4192-a037-4080a96057f3)
+![Screenshot (137)](https://github.com/RizaDBatulanon/MyPortfolio/assets/143053579/55c584ac-b1e5-4e95-bc49-0ee5e80c4103)
+![Screenshot (138)](https://github.com/RizaDBatulanon/MyPortfolio/assets/143053579/a6247c05-05f8-439a-978e-a807227d1cf5)
